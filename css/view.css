@@ -1,0 +1,48 @@
+.table-view{
+    width: 40%;
+    /* margin-left:10%;
+    margin-top: 5%; */
+}
+
+#table-data{
+    margin-top: 5%;
+}
+
+.finish-shop-btn{
+    display: flex;
+    justify-content: space-between;    
+}
+
+.content{
+    display: flex;
+    justify-content: space-around;
+}
+
+#slide-show{
+    width: 50%;
+}
+
+.more-products{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#second-table{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.navbar-items{
+    display: flex;
+    width: 100%;
+}
+
+.tables{
+    
+}
+img{
+    max-width: 400px;
+    max-height: 400px;
+}
