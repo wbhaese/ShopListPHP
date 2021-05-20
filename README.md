@@ -1,4 +1,4 @@
 # tracktik-test
-Small project simulating eletronic's shop.
+Small project simulating electronics purchase.
 
 preview image on /images/preview.jpg
